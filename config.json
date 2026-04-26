@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Student Results Portal",
+    "supabase_url": "https://hharafgxofcdpqyblcss.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  }
+]
